@@ -1,2 +1,3 @@
 # crud-js
-manejo de adición al DOM mediante js
+
+manejo del DOM mediante js puro. E - Comerce

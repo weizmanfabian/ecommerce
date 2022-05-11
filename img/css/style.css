@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    background-color: #da291c !important;
+}
+a .nav-link{
+    color: #fff !important;
+}
+.black-color {
+    background-color: #0e0f0e;
+}
+.footer {
+    padding: 6% 6% 6% 6%;
+}
